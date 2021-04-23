@@ -14,7 +14,7 @@ if (username in allowedUsers):
         print('2. Cash Deposit')
         print('3. Complaint')
 
-        selectedOption = int(input('Please select and option \n')))
+        selectedOption = int(input('Please select and option \n'))
 
         if(selectedOption == 1):
             print('You selected %s' % selectedOption)
